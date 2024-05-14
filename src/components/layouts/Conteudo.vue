@@ -1,6 +1,5 @@
 <template>
   <div>
-    <p>Teste componente</p>
     <Home />
     <PublicarVaga />
   </div>
